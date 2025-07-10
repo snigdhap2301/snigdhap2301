@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/snigdha-pandey-a56758228/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
-  <a href="https://www.youtube.com/@OMGNEWZZ">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
+<a href="https://instagram.com/snigdhaaaaa_23">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25" />
+</a>
   <a href="mailto:snigdhapandey336@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" />
   </a>
