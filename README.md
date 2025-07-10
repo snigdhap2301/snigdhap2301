@@ -1,34 +1,11 @@
 <div align="center">
-  <img height="150" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fd4tvukbt5mra37cvwklk.gif" />
+  <img height="550" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fd4tvukbt5mra37cvwklk.gif" />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/snigdha-pandey-a56758228/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-<a href="https://instagram.com/snigdhaaaaa_23">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25" />
-</a>
-  <a href="mailto:snigdhapandey336@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
 
-###
+<h1 align="center">Hey there 👋</h1>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=snigdhap2301.snigdhap2301" />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-## 💫 About Me:
 🔭 I’m currently working on  
 → Exploring ideas to build something meaningful in the mental health space.  
 🤝 I’m looking to collaborate on  
@@ -39,16 +16,16 @@
 → To build smarter data-driven apps, optimize ML models, and make sense of real-world datasets.  
 💬 Ask me about  
 → Python projects, building ML models, using Google Cloud, presenting research — or my fascination with airplanes and aviation!  
-🎨 When I’m not coding, you’ll find me painting, baking, or playing tunes on my instrument. I love wandering through cities with nothing but Google Maps and a curious mind.
+🎨 When I’m not coding, you’ll find me painting, baking, or playing tunes on my instrument. I love wandering through cities with nothing but Google Maps, Coffee and a curious mind.
 
-###
+
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snigdhaaaaa-23)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snigdhaaaaa_23)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snigdha-pandey-a56758228/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snigdhapandey336@gmail.com)
 
-###
+
 
 ## 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
